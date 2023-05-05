@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T11:30:53.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="6xkxxXA-HzCTd_hQD3ug" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T12:20:10.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="P_oQP3_fE0miljldvDKu" version="21.2.9" type="github">
   <diagram name="第 1 页" id="yTQUxa3YWbj74dRGjzxy">
-    <mxGraphModel>
+    <mxGraphModel dx="1377" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-1" value="查阅文献，学习本课题所需的各种理论知识" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-2" value="硬件部分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-3" value="软件部分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-4" value="传感器选型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-5" value="感知模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-6" value="通讯模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-7" value="群体感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-8" value="集群控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-9" value="个体控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-10" value="制作并组装&lt;br&gt;机器鱼" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JaCzHggq6NPp5Wxy95-11" value="机器鱼平台实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="240" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
