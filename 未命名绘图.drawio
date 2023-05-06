@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T04:35:16.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xp448yGiuFt_2bI2mpTt" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-06T04:57:44.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LV_4jJkngQ3dDf3OBf0R" version="21.2.9" type="github" pages="3">
   <diagram name="第 1 页" id="yTQUxa3YWbj74dRGjzxy">
     <mxGraphModel dx="788" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,25 +253,25 @@
           <mxGeometry x="200" y="320" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-54" value="确定局部信息交换方式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="240" height="40" as="geometry" />
+          <mxGeometry x="210" y="565" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-55" value="设计运动规划算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="350" y="570" width="240" height="40" as="geometry" />
+          <mxGeometry x="210" y="640" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-56" value="设计协作规则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="480" y="1040" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-57" value="姿态控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="240" y="720" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="810" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-58" value="运动学优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="480" y="720" width="160" height="40" as="geometry" />
+          <mxGeometry x="480" y="810" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-59" value="控制算法优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="240" y="800" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="890" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-60" value="动力学优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="480" y="800" width="160" height="40" as="geometry" />
+          <mxGeometry x="480" y="890" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-61" value="设计虚拟势场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="160" y="1040" width="160" height="40" as="geometry" />
@@ -281,6 +281,218 @@
         </mxCell>
         <mxCell id="VZ-H8zmovEPA-StWx-rf-63" value="解耦控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="481.75" y="1160" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="95riu9EIPc0hS5N8-8Sh" name="第 3 页">
+    <mxGraphModel dx="1244" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1400" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNtIykIe0OTwwqtnQ30S-22" target="qNtIykIe0OTwwqtnQ30S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1200" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNtIykIe0OTwwqtnQ30S-21" target="qNtIykIe0OTwwqtnQ30S-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1000" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qNtIykIe0OTwwqtnQ30S-20" target="qNtIykIe0OTwwqtnQ30S-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qNtIykIe0OTwwqtnQ30S-19" target="qNtIykIe0OTwwqtnQ30S-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="680" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNtIykIe0OTwwqtnQ30S-18" target="hjI5qNpVmiyzZ-uvu-vR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QDfCbaeJHYLy1AE5lpGk-1" value="仿生机器鱼的集群控制设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2R8RsjSJ7tAAN_FQlY_-1" target="qNtIykIe0OTwwqtnQ30S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2R8RsjSJ7tAAN_FQlY_-1" value="鱼体设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="120" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a2R8RsjSJ7tAAN_FQlY_-2" value="鱼头外形设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a2R8RsjSJ7tAAN_FQlY_-3" value="鱼尾驱动器设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a2R8RsjSJ7tAAN_FQlY_-4" value="材料选择" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a2R8RsjSJ7tAAN_FQlY_-5" value="机械结构设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a2R8RsjSJ7tAAN_FQlY_-6" value="控制系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a2R8RsjSJ7tAAN_FQlY_-7" value="传感器选型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hjI5qNpVmiyzZ-uvu-vR-1" target="qNtIykIe0OTwwqtnQ30S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hjI5qNpVmiyzZ-uvu-vR-1" value="机器鱼六自由度模型建立" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQnxyv7m-dDOeqCT3XZf-1" target="VQnxyv7m-dDOeqCT3XZf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-1" value="运动学分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQnxyv7m-dDOeqCT3XZf-2" target="VQnxyv7m-dDOeqCT3XZf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-2" value="动力学分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQnxyv7m-dDOeqCT3XZf-3" target="VQnxyv7m-dDOeqCT3XZf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-3" value="D-H模型的建立" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQnxyv7m-dDOeqCT3XZf-4" target="VQnxyv7m-dDOeqCT3XZf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-4" value="正运动学求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-5" value="MATLAB仿真验证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQnxyv7m-dDOeqCT3XZf-6" target="VQnxyv7m-dDOeqCT3XZf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-6" value="动力学方程的建立" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VQnxyv7m-dDOeqCT3XZf-7" target="VQnxyv7m-dDOeqCT3XZf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-7" value="关节力矩的求解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-8" value="Ansys动力学仿真" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="700" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VQnxyv7m-dDOeqCT3XZf-9" target="qNtIykIe0OTwwqtnQ30S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnxyv7m-dDOeqCT3XZf-9" value="运动学和动力学分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="440" width="40" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtIRG6bctp8030x-Qgfo-1" target="qNtIykIe0OTwwqtnQ30S-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtIRG6bctp8030x-Qgfo-1" value="群体感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="800" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QtIRG6bctp8030x-Qgfo-2" value="环境感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QtIRG6bctp8030x-Qgfo-3" value="机器鱼位姿感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="900" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QtIRG6bctp8030x-Qgfo-4" value="机器鱼位置感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="900" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QtIRG6bctp8030x-Qgfo-5" value="其他机器鱼识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="820" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XKtVPpoi5A0cNm86TtHf-1" target="qNtIykIe0OTwwqtnQ30S-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKtVPpoi5A0cNm86TtHf-1" value="个体控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1000" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7mJ55RDOXfFZjsaBFwF-1" target="qNtIykIe0OTwwqtnQ30S-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7mJ55RDOXfFZjsaBFwF-1" value="步态优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1200" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7mJ55RDOXfFZjsaBFwF-2" value="姿态控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7mJ55RDOXfFZjsaBFwF-3" value="运动学优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7mJ55RDOXfFZjsaBFwF-4" value="控制算法优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7mJ55RDOXfFZjsaBFwF-5" value="动力学优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hyttvRIRUFJ4M7HiHXQ-1" target="qNtIykIe0OTwwqtnQ30S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hyttvRIRUFJ4M7HiHXQ-1" value="集群控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1400" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8hyttvRIRUFJ4M7HiHXQ-2" value="设计协作规则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8hyttvRIRUFJ4M7HiHXQ-3" value="设计虚拟势场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8hyttvRIRUFJ4M7HiHXQ-4" value="集群形成算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8hyttvRIRUFJ4M7HiHXQ-5" value="集群控制策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-1" value="感知控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1020" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-2" value="智能控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-3" value="通信控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-4" value="运动控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1020" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-6" value="姿态控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1020" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-7" value="速度调节" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-8" value="运动控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-9" value="鱼体结构优化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-10" value="通信协议设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNtIykIe0OTwwqtnQ30S-12" value="集群协同控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1500" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
