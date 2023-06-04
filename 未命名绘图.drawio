@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T03:19:39.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bLA6X8HJSfrlTTiTl-7p" version="21.3.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-04T03:21:01.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CeYjpa3MH2b73qXz-1sC" version="21.3.7" type="github" pages="4">
   <diagram name="第 1 页" id="yTQUxa3YWbj74dRGjzxy">
     <mxGraphModel dx="1318" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -537,7 +537,7 @@
             <mxPoint x="360" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Az5KnaCcqF-3Plamwhlt-20" value="A鱼&lt;br&gt;传感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Az5KnaCcqF-3Plamwhlt-20" value="B鱼&lt;br&gt;传感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="200" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Az5KnaCcqF-3Plamwhlt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Az5KnaCcqF-3Plamwhlt-21" target="Az5KnaCcqF-3Plamwhlt-1">
@@ -545,7 +545,7 @@
             <mxPoint x="370" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Az5KnaCcqF-3Plamwhlt-21" value="A鱼&lt;br&gt;传感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Az5KnaCcqF-3Plamwhlt-21" value="C鱼&lt;br&gt;传感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="200" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
